@@ -16,10 +16,10 @@ Automated script to convert audio files into high-quality videos with a dynamic 
 - **Windows PowerShell:** Standard on Windows 10/11.
 
 ## 📦 How to Use
-1. Download `AudioVisualizer.ps1` and `EQ.bmp`.
+1. Download `Audio Cover 0.07.ps1` and `EQ.bmp`.
 2. Place both files into a folder containing your `.mp3` or `.flac` files.
-3. Right-click `AudioVisualizer.ps1` -> **Run with PowerShell**.
-4. Your videos will be generated as `[Filename]_PRO.mkv`.
+3. Right-click `Audio Cover 0.07.ps1` -> **Run with PowerShell**.
+4. Your videos will be generated as `[Filename].mkv`.
 
 ## ⚠️ Credits & Legal
 - **Background Image:** The `EQ.bmp` file contains graphic elements (Vinyl/CD visual) inspired by "WHY? – Album CD" designs found online. 
