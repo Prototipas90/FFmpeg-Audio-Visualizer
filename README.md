@@ -28,4 +28,4 @@ Automated script to convert audio files into high-quality videos with a dynamic 
 
 ---
 *Created with FFmpeg and PowerShell.*
-![Demo Screenshot](demo.jpg)
+![Demo Screenshot](Demo.jpg)
