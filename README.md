@@ -1,3 +1,5 @@
+### 🔊 Video Demo (Mickey & Sylvia - Love Is Strange)
+https://github.com/user-attachments/assets/a35922c2-9d71-4421-b103-35ee7972778f
 # FFmpeg-Audio-Visualizer
 Automated PowerShell script to convert MP3/FLAC to video with a precise 31-band FFmpeg equalizer and embedded cover art extraction.
 # 🎵 FFmpeg 31-Band Audio Visualizer (PowerShell)
